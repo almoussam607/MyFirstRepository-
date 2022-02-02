@@ -1,2 +1,2 @@
 # MyFirstRepository-
-This my first Repository to for the class Software Engineer
+This is my first repository for the class Software Engineering.
