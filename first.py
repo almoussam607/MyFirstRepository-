@@ -10,6 +10,7 @@ while x == 'yes':
     
 for m in range(0,1010,10):
     print(m)
+    print(m,'range')
 
      
         
